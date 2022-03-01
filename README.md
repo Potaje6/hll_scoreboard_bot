@@ -2,8 +2,9 @@
 Script to send a message to a discord channel every new game that finished in HLL, working with Maresh HLL_RCON https://github.com/MarechJ/hll_rcon_tool
 
 Dependencies:
+Clone this repo where this scoreboard_bot is cloned
 
-```https://github.com/ChaoticWeg/discord.sh.git #clone this discord.sh where this repo is cloned```
+```git clone https://github.com/ChaoticWeg/discord.sh.git ```
 
 Edit scoreboard_bot.sh to add your parameters, at least the discord token but the recommended are the following variables:
 
