@@ -15,4 +15,5 @@ WEBHOOK=https://discord.com/api/webhooks/HERE_GOES_THE_WEBHOOK #the webhook that
 
 How to run:
 if you configured all variables above you can just run it alone without parameters, and because it only allows 1 server per run, you can use parameters for the rest of the servers
+
 ```/root/scoreboard_bot/scoreboard_bot.sh -s Server2 -u https://my.second.rcon.url```
