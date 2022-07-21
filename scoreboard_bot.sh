@@ -85,7 +85,9 @@ do
 			;;
 			utahbeach) IMG_ID=utah
 			;;
-		*) break
+			remagen) IMG_ID=remagen
+			;;		
+		*) IMG_ID=kursk
 		;;
 		esac
 		END_TIME_MESSAGE=$(echo $END_TIME | cut -f 1 -d \.)
